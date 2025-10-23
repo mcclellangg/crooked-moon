@@ -10,6 +10,8 @@ Indeed!
 
 Tis but a silly jape.
 
+'It's LORD Petrarchus, if you please.'
+
 ## Quirks
 Has a violin but he's horrible at it.
 
