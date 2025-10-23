@@ -35,7 +35,7 @@ Save spells for end of battle, stay out of range and support allies.
 Hide, taunt enemies and shoot them with your crossbow.
 
 ## Inventory
-Track pickups and consumables and worry about a transaction log.
+Track consumables here. Don't worry about a transaction log.
 
 Quiver: 50 bolts
 
