@@ -53,4 +53,4 @@ Mallet
     Scamp - 10 extra feet of movement
 
 ## TODO
-- [ ] Spell, presdigiation swap
+- [x] Spell, prestidigiation swap
