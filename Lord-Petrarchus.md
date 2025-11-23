@@ -58,11 +58,17 @@ Quiver: 49 bolts
 
 ## Spells
 [Vicious Mockery](https://roll20.net/compendium/dnd5e/Spells:Vicious%20Mockery?expansion=33335)
+
 [Sleep](https://www.dndbeyond.com/spells/2619064-sleep)
+
 [Detect Magic](https://www.dndbeyond.com/spells/2619097-detect-magic)
+
 [Heroism](https://www.dndbeyond.com/spells/2619151-heroism)
+
 [Healing Word](https://www.dndbeyond.com/spells/2619143-healing-word)
+
 [Dissonant Whispers](https://www.dndbeyond.com/spells/2619104-dissonant-whispers)
+
 [Invisibility](http://dnd2024.wikidot.com/spell:invisibility)
 
 # TODO
